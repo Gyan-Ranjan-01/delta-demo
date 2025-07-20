@@ -1,2 +1,2 @@
 # delta-demo
-created for Demo purpose
+created for Demo purpose.
